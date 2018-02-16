@@ -1,0 +1,11 @@
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\bin\Debug\Controle Multimidia.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\bin\Debug\Controle Multimidia.exe
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\bin\Debug\Controle Multimidia.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\bin\Debug\Controle Multimidia.xml
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle Multimidia.vbprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle_Multimidia.Form1.resources
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle_Multimidia.Resources.resources
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle Multimidia.vbproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle Multimidia.exe
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle Multimidia.xml
+c:\users\raphael\documents\visual studio 2015\Projects\Controle Multimidia\Controle Multimidia\obj\Debug\Controle Multimidia.pdb
